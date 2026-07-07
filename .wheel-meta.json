@@ -1,0 +1,22 @@
+{
+  "wheel_id": 117,
+  "slug": "ballarathomeloanbroker-103",
+  "project": "refinancing-ballarat-buyer-tips-b-103",
+  "parent_t1_ref": "ballarathomeloanbroker-002",
+  "node_role": "feeder",
+  "money_target": "ballarathomeloanbroker.com.au",
+  "primary_kw": "refinancing ballarat buyer tips",
+  "intended_url": "https://refinancing-ballarat-buyer-tips-b-103.ondigitalocean.app/",
+  "links": [
+    {
+      "target_url": "https://refinancing-ballarat-b-150.s3.ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "refinancing ballarat",
+      "rel": "follow"
+    },
+    {
+      "target_url": "https://refinancing-ballarat-b-150.s3.ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "refinancing ballarat",
+      "rel": "follow"
+    }
+  ]
+}
