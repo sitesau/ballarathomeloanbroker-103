@@ -12,4 +12,4 @@ Disallow: /
 User-agent: DotBot
 Disallow: /
 
-Sitemap: https://refinancing-ballarat-buyer-tips-b-103.ondigitalocean.app/sitemap.xml
+Sitemap: https://aumedia.neocities.org/refinancing-ballarat-buyer-tips-b-103/sitemap.xml
